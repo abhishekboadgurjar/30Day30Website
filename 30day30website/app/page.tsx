@@ -8,7 +8,7 @@ const projects = [
   {
     name: "TherapistBooking",
     description: "A clean therapist appointment booking landing page.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/TherapistBooking",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://therapist-booking.vercel.app/",
     category: "Healthcare",
     color: "from-emerald-500 to-teal-600",
@@ -16,7 +16,7 @@ const projects = [
   {
     name: "PlantNursery",
     description: "A modern website for plant nursery and gardening store.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/PlantNursery",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://plant-nursery-rho.vercel.app/",
     category: "E-commerce",
     color: "from-green-500 to-emerald-600",
@@ -24,7 +24,7 @@ const projects = [
   {
     name: "LawyerWebsite",
     description: "Professional site design for a law firm or legal advisor.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/LawyerWebsite",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://lawyer-website-eight-theta.vercel.app/",
     category: "Legal",
     color: "from-slate-600 to-gray-700",
@@ -32,7 +32,7 @@ const projects = [
   {
     name: "LanguageTutorSite",
     description: "Educational site for language learning services.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/LanguageTutorSite",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://language-tutor-site.vercel.app/",
     category: "Education",
     color: "from-blue-500 to-indigo-600",
@@ -40,7 +40,7 @@ const projects = [
   {
     name: "JewelryStore",
     description: "Elegant UI for a high-end jewelry store.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/JewelryStore",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://jewelry-store-ashy.vercel.app/",
     category: "Luxury",
     color: "from-amber-500 to-orange-600",
@@ -48,7 +48,7 @@ const projects = [
   {
     name: "CharityLanding",
     description: "A minimalist landing page for a nonprofit or charity.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/CharityLanding",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://charity-landing-sigma.vercel.app/",
     category: "Nonprofit",
     color: "from-rose-500 to-pink-600",
@@ -56,7 +56,7 @@ const projects = [
   {
     name: "HomeFixPro",
     description: "Home maintenance and handyman service website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/HomeFixPro",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://home-fix-pro.vercel.app/",
     category: "Services",
     color: "from-orange-500 to-red-600",
@@ -64,7 +64,7 @@ const projects = [
   {
     name: "EleganceAtelier",
     description: "Boutique fashion designer or portfolio website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/EleganceAtelier",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://elegance-atelier.vercel.app/",
     category: "Fashion",
     color: "from-purple-500 to-violet-600",
@@ -72,7 +72,7 @@ const projects = [
   {
     name: "AlexRivera",
     description: "Personal branding site for a freelancer or speaker.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/AlexRivera",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://alex-rivera.vercel.app/",
     category: "Personal",
     color: "from-cyan-500 to-blue-600",
@@ -80,7 +80,7 @@ const projects = [
   {
     name: "HealthLabPro",
     description: "Medical lab testing or health diagnostics website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/HealthLabPro",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://health-lab-pro.vercel.app/",
     category: "Healthcare",
     color: "from-emerald-500 to-teal-600",
@@ -88,7 +88,7 @@ const projects = [
   {
     name: "TutorPro",
     description: "An online tutor service or coaching landing page.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/TutorPro",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://tutor-pro-three.vercel.app/",
     category: "Education",
     color: "from-blue-500 to-indigo-600",
@@ -96,7 +96,7 @@ const projects = [
   {
     name: "HackFest",
     description: "Hackathon or tech event promotional website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/HackFest",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://hack-fest-seven.vercel.app/",
     category: "Tech",
     color: "from-violet-500 to-purple-600",
@@ -104,7 +104,7 @@ const projects = [
   {
     name: "MovePro",
     description: "Logistics or moving services website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/MovePro",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://move-pro-five.vercel.app/",
     category: "Logistics",
     color: "from-indigo-500 to-blue-600",
@@ -112,7 +112,7 @@ const projects = [
   {
     name: "PawSpaGrooming",
     description: "Pet grooming and spa appointment landing page.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/PawSpaGrooming",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://paw-spa-grooming.vercel.app/",
     category: "Pet Care",
     color: "from-pink-500 to-rose-600",
@@ -120,7 +120,7 @@ const projects = [
   {
     name: "SarahPhotography",
     description: "Portfolio website for a photographer.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/SarahPhotography",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://sarah-photography.vercel.app/",
     category: "Portfolio",
     color: "from-gray-600 to-slate-700",
@@ -128,7 +128,7 @@ const projects = [
   {
     name: "LuxeBeauty",
     description: "Beauty product or salon website with stylish UI.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/LuxeBeauty",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://luxe-beauty-sigma.vercel.app/",
     category: "Beauty",
     color: "from-rose-500 to-pink-600",
@@ -136,7 +136,7 @@ const projects = [
   {
     name: "SwiftLogistics",
     description: "Responsive logistics or courier company site.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/SwiftLogistics",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://swift-logistics-zeta.vercel.app/",
     category: "Logistics",
     color: "from-indigo-500 to-blue-600",
@@ -144,7 +144,7 @@ const projects = [
   {
     name: "FitFlow",
     description: "Fitness trainer or health app landing page.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/FitFlow",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://fitflow-eosin.vercel.app/",
     category: "Fitness",
     color: "from-green-500 to-emerald-600",
@@ -152,7 +152,7 @@ const projects = [
   {
     name: "Coding4Dev",
     description: "Tech community or coding resource hub.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/Coding4Dev",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://coding4dev.vercel.app/",
     category: "Tech",
     color: "from-violet-500 to-purple-600",
@@ -160,7 +160,7 @@ const projects = [
   {
     name: "DigitalTech",
     description: "Corporate website for a digital tech company.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/DigitalTech",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://digital-tech-gules.vercel.app/",
     category: "Corporate",
     color: "from-blue-600 to-indigo-700",
@@ -168,7 +168,7 @@ const projects = [
   {
     name: "TeslaClone",
     description: "Tesla homepage UI clone using modern web tech.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/Tesla",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://tesla-inky-delta.vercel.app/",
     category: "Clone",
     color: "from-red-500 to-orange-600",
@@ -176,7 +176,7 @@ const projects = [
   {
     name: "AppleClone",
     description: "Apple product showcase inspired website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/Apple",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://apple-website-ashy-mu.vercel.app/",
     category: "Clone",
     color: "from-gray-500 to-slate-600",
@@ -184,7 +184,7 @@ const projects = [
   {
     name: "BeerBiceps",
     description: "Landing page for fitness influencer brand.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/BeerBiceps",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://beer-biceps-rose.vercel.app/",
     category: "Fitness",
     color: "from-orange-500 to-red-600",
@@ -192,7 +192,7 @@ const projects = [
   {
     name: "IGL",
     description: "Fan-made landing page for India's Got Talent.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/IGL",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://indiasgotlatent.vercel.app/",
     category: "Entertainment",
     color: "from-yellow-500 to-orange-600",
@@ -200,7 +200,7 @@ const projects = [
   {
     name: "KGS",
     description: "Website for Khan Global Studies educational platform.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/KGS",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://khan-global-studies.vercel.app/",
     category: "Education",
     color: "from-blue-500 to-indigo-600",
@@ -208,7 +208,7 @@ const projects = [
   {
     name: "SandeepMaheshwari",
     description: "Tribute or fan page for motivational speaker.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/SandeepMaheshwari",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://sandeep-maheshwari.vercel.app/",
     category: "Personal",
     color: "from-teal-500 to-cyan-600",
@@ -216,23 +216,23 @@ const projects = [
   {
     name: "SheriyansCoding",
     description: "Tech training institute or coding bootcamp website.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/SheriyansCoding",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://sheriyanscoding.vercel.app/",
     category: "Education",
     color: "from-purple-500 to-violet-600",
   },
   {
-    name: "ByteErect",
+    name: "BoadTech",
     description: "Tech startup site with modern and bold UI.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/ByteErect",
-    live: "https://byteerect-blond.vercel.app/",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
+    live: "https://boadtechnologies.vercel.app/",
     category: "Startup",
     color: "from-cyan-500 to-blue-600",
   },
   {
     name: "CleanPro",
     description: "Cleaning service website with a sleek layout.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/CleanPro",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://clean-pro-psi.vercel.app/",
     category: "Services",
     color: "from-blue-500 to-cyan-600",
@@ -240,7 +240,7 @@ const projects = [
   {
     name: "KCC",
     description: "Landing page for a community or college club.",
-    github: "https://github.com/abhishekboadgurjar/30Day30Website/tree/main/KCC",
+    github: "https://github.com/abhishekboadgurjar/30Day30Website/",
     live: "https://kcc-taupe.vercel.app/",
     category: "Community",
     color: "from-green-500 to-teal-600",
