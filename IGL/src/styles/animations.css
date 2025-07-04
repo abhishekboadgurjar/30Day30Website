@@ -1,0 +1,79 @@
+@keyframes character-animation {
+  0% {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in-up {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-character {
+  animation: character-animation 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+.animate-character-delay {
+  animation: character-animation 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) 0.2s both;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s infinite;
+}
+
+.animate-fade-in {
+  animation: fade-in 1s ease-out both;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 1s ease-out both;
+}
+
+.animate-fade-in-up-delay {
+  animation: fade-in-up 1s ease-out 0.3s both;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
